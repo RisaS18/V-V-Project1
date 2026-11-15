@@ -1,0 +1,12 @@
+FIFO Coverage Convergence
+=========================
+After 50 random transactions: 98.33%
+After 100 random transactions: 98.33%
+After 150 random transactions: 98.33%
+After 200 random transactions: 100.00%
+After 250 random transactions: 100.00%
+After 300 random transactions: 100.00%
+After 350 random transactions: 100.00%
+After 400 random transactions: 100.00%
+After 450 random transactions: 100.00%
+After 500 random transactions: 100.00%
